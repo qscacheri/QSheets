@@ -1,5 +1,4 @@
 # QSheets
-# QSheets
 
 Thanks for trying QSheets. QSheets turns a ProTools Session into a cue sheet. 
 
